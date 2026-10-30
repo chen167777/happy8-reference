@@ -1,0 +1,22 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 本地数据与导出（不入库）
+happy8.sqlite3
+douyin_comments_data.csv
+*导出*.csv
+exports/
+
+# 本地文档与系统文件
+*.docx
+.DS_Store
+Thumbs.db
+
+# 本地工具缓存
+.yfcode/
+.yfcode
+
